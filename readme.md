@@ -7,4 +7,4 @@ FlatGM From Aelen :
 This software is basicly a reskin of my previous GMTOOL ( Aeklys ) with some new things for increase the user experience.
 
 Credit :
-- Software by aelenweb.online
+- Software by julien-roy.fr
